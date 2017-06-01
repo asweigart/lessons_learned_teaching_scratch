@@ -117,4 +117,14 @@ Here are some tricks in Scratch that took us a while to discover.
 - The Backpack (only available in the online editor) lets you share code blocks between Scratch projects. Click the drawer along the bottom of the Scratch editor to open it, then drag code blocks inside of it.
 - You can right-click the "<", "=", and ">" green Operator blocks and switch their symbols, rather than pull out a new block.
 - You can right-click the "+", "-", "*", and "/" green Operator blocks and switch their symbols, rather than pull out a new block.
-- TODO finish this section
+
+
+# TODO
+
+This document still needs:
+
+- Graphics to accompany some of the tips.
+- More "Special Scratch Tricks"
+- Link to "CS Teaching Tips" http://csteachingtips.org/
+- List project ideas, and the "random game mechanic mixer" https://inventwithpython.com/blog/2012/07/30/need-a-game-idea-a-list-of-game-mechanics-and-a-random-mechanic-mixer/
+- Add contact info: al@themade.org
