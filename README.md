@@ -29,6 +29,7 @@ These are steps that you might want to follow before the class begins.
 - Set a large mouse pointer on the computer connected to the projector so it is easier to see. On Mac this is found under System Preferences, Universal Access, Mouse, Cursor Size and on Windows this is found under Control Panel, Mouse, Pointers (set it to the Windows Aero (extra large) scheme).
 - Maximize the browser window on the laptops. Students will use a smaller browser window and not realize they can maximize it themselves.
 - Mute all of the computers before class. Scratch has sound effects, but they can be distracting.
+- At the end of the class, remind kids to sign out of their accounts. Afterwards, go through all the computers anyway and check that they signed out.
 
 # General Scratch Teaching Tips
 
@@ -43,6 +44,9 @@ These are steps that you might want to follow before the class begins.
 - Point out the Undo button early on when doing anything that involves the Paint Editor. Students will make several mistakes, but the Undo (and Redo) buttons can help them fix it.
 - If you're projecting on a screen, click the Zoom buttons in the lower right of the Scratch editor to increase the size of the blocks.
 - You can copy blocks to other sprites by dragging them to the other sprite's icon in the Sprite Area. This is a useful shortcut to duplicate blocks across sprites.
+- If you are giving instructions about which blocks to place: tell them 1) the category the block is in, 2) which block to pick up, and 3) where to place it. Do this altogether, or else students will be left wondering where to find blocks or what to do with them after picking them up. "From the blue Motion category, grab a 'move 10 steps' block and put it inside the 'forever' block."
+- Students can have difficulty reordering blocks, so tell them the blocks to place in sequential order. Every step that involves removing or reordering blocks is a chance that they'll lose the path.
+- For blocks that have a dropdown menu or text fields, have the student change the menu/text field while the block is in the middle Blocks Area and then drag it. This avoids confusion because you don't have to "program" the block (by adding it) and then "re-program" it (by changing it).
 
 # Common Scratch Pitfalls
 
